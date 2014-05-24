@@ -1,0 +1,9 @@
+{
+    "require": {
+        "symfony/http-foundation": "*",
+        "patchwork/dumper": "~1.0"
+    },
+    "config": {
+        "preferred-install": "dist"
+    }
+}
